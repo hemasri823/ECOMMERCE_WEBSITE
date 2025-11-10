@@ -48,32 +48,39 @@ ecommerce-frontend/
 
 ---
 
-## ⚙️ How to Run (Locally)
-This is a static site — no backend required.
+⚙️ Run Locally
 
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/your-ecommerce-repo.git
-cd your-ecommerce-repo
-2.Open index.html in your browser
+Static website — no backend needed ✅
 
-Double-click index.html or run a simple HTTP server:
+Clone the repo
+git clone https://github.com/hemasri823/ECOMMERCE_WEBSITE.git
+cd ECOMMERCE_WEBSITE
 
-# Python 3
+Open the project
+
+Just double-click index.html
+or start a local server:
+
 python -m http.server 8000
-# then open http://localhost:8000
-🧩 Notes / Extending the Project
 
-=>Currently frontend-only. To make it production-ready:
 
-    .Add a backend (Node/Express, Django, Flask) for orders and auth
+Then open:
+👉 http://localhost:8000
+---
+🧩 Future Enhancements
 
-    .Use a proper DB to store products & orders
+Login & authentication
 
-    .Add payment gateway integration (Stripe/PayPal)
+Backend API (Node / Django / Flask)
 
-    .Implement server-side search & pagination
+Database for products & orders
 
-=>Performance: compress images and enable lazy-loading for product images.
+Payment integration (Stripe / Razorpay)
 
+Wishlist & order history
+
+---
+⭐ About
+
+This project showcases front-end UI skills & e-commerce logic using pure HTML-CSS-JS.
 
