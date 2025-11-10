@@ -8,7 +8,7 @@ This project is a polished demo of product listing, product details, shopping ca
 
 ## 🚀 Live Demo  
 
-👉 **[Click Here to View Website](https://hemasri823.github.io/ECOMMERCE_WEBSITE/)**
+👉 **[Link](https://hemasri823.github.io/ECOMMERCE_WEBSITE/)**
 
 
 ---
@@ -75,16 +75,5 @@ python -m http.server 8000
     .Implement server-side search & pagination
 
 =>Performance: compress images and enable lazy-loading for product images.
-## 📸 Screenshots
 
-### Laptop View
-![Laptop View](screenshots/laptop view.png)
-
-###  Tab View
-![Tab view](screenshots/tab view1.png)
-![Tab view](screenshots/tab view2.png)
-
-### Mobile view
-![Mobile view](screenshots/mobile view1.png)
-![Mobile view](screenshots/mobile view2.png)
 
